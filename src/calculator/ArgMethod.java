@@ -10,9 +10,9 @@ public class ArgMethod {
         System.out.println("Hello, " + name + ", your age is " + age);
     }
 
-    public static void hello() {
-        System.out.println("Hello");
-    }
+//    public static void hello() {
+//        System.out.println("Hello");
+//    }
 
 //    public static void hello(int age) {
 //        System.out.println("Hello, your age is " + age);
@@ -27,6 +27,7 @@ public class ArgMethod {
 //        ArgMethod.hello(age);
 
 //        ArgMethod.hello(name);
-        ArgMethod.hello();
+
+//        ArgMethod.hello();
     }
 }
