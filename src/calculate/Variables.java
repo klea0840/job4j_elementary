@@ -31,6 +31,5 @@ public class Variables {
 //        Размер файла
         long fileSize = 16;
 
-
     }
 }
