@@ -23,6 +23,8 @@ public class Cinema {
             Cinema.access(21);
             Cinema.access(16);
 
+            System.out.println("Can you go to the cinema?");
+
             Cinema.permission(true, true);
             Cinema.permission(true, false);
             Cinema.permission(false, true);
