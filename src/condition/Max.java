@@ -3,8 +3,7 @@ package condition;
 public class Max {
 
     public static int max(int left, int right) {
-        boolean which = left > right;
-        return which ? left : right;
+        return left > right ? left : right;
     }
 
     public static void main(String[] args) {
