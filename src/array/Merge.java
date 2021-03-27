@@ -6,7 +6,6 @@ public class Merge {
 
     public static int[] merge(int[] left, int[] right) {
         int[] rsl = new int[left.length + right.length];
-
         int countLeft = 0;
         int countRight = 0;
         int countRsl = 0;

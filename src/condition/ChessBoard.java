@@ -10,7 +10,6 @@ public class ChessBoard {
     }
 
     public static void main(String[] args) {
-
         int path = ChessBoard.way(-4, 0, 0, 4);
         if (path == 0) {
             System.out.println("Incorrect move");
